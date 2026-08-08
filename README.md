@@ -1,6 +1,6 @@
 # Customer-segmentation--dashboard
 
-An interactive Streamlit web application that uses K-means clustering to segment mall customers by annual income and spending score.
+An interactive Streamlit web application(**Live demo:** https://ans-customer-segmentation.streamlit.app) that uses K-means clustering to segment mall customers by annual income and spending score.
 
 ## Project overview
 
